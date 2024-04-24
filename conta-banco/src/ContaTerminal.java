@@ -6,6 +6,7 @@ public class ContaTerminal {
         int numeroID = 1;
         System.out.println("Qual numero da conta? ");
         numeroID = numero.nextInt();
+        
 
         Scanner agencia = new Scanner(System.in);
         String agenciaID = "abc";
